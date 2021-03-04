@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk) in [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei). Prior to CUHK, I received my B.Eng in Computer Science and Technology from Wuhan University in 2018.
+I am a third-year Ph.D. student at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk) in [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei). Prior to CUHK, I received my B.Eng in Computer Science and Technology from Wuhan University in 2018.<br>
 As a member of the [CUHK Computer Security Lab](https://seclab.cse.cuhk.edu.hk), I work on network and system security problems. Recently, I am also working on software engineering projects.
 
 Publications
