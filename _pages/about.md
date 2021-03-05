@@ -37,6 +37,6 @@ In Proceedings of The 26th ACM Conference on Computer and Communications Securit
 In Proceedings of The 28th USENIX Security Symposium, August 2019. 
 
 ## 2018
-"InstantCryptoGram: Secure Image Retrieval Service". [[PDF](https://zhangmx1997.github.io/papers/infocom18_image_retrieval)]<br>
+"InstantCryptoGram: Secure Image Retrieval Service". [[PDF](https://zhangmx1997.github.io/papers/infocom18_image_retrieval.pdf)]<br>
 Minghui Li, <ins>Mingxue Zhang</ins>, Qian Wang, Sherman S. M. Chow, Minxin Du, Yanjiao Chen, and Chenliang Li.<br>
 In proceedings of the IEEE Conference on Computer Communications (INFOCOM), April 2018.
