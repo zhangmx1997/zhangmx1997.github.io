@@ -14,7 +14,7 @@ As a member of the [CUHK Computer Security Lab](https://seclab.cse.cuhk.edu.hk),
 Publications
 ======
 ## 2021
-"Revealer: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities". [[PDF](https://zhangmx1997.github.io/papers/sp21-revealer.pdf)] [[Code](https://github.com/cuhk-seclab/Revealer)]<br> 
+"Revealer: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities". [[PDF](https://zhangmx1997.github.io/papers/sp21_revealer.pdf)] [[Code](https://github.com/cuhk-seclab/Revealer)]<br> 
 Yinxi Liu, <ins>Mingxue Zhang</ins>, Wei Meng.<br>
 In Proceedings of The 42nd IEEE Symposium on Security and Privacy, May 2021. 
 
