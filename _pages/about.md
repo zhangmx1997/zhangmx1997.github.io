@@ -14,12 +14,12 @@ As a member of the [CUHK Computer Security Lab](https://seclab.cse.cuhk.edu.hk),
 Publications
 ======
 ## 2021
-"Revealer: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities".<br> 
+"Revealer: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities". [[PDF](https://zhangmx1997.github.io/papers/sp21-revealer.pdf)] [[Code](https://github.com/cuhk-seclab/Revealer)]<br> 
 Yinxi Liu, <ins>Mingxue Zhang</ins>, Wei Meng.<br>
-To appear in Proceedings of The 42nd IEEE Symposium on Security and Privacy, May 2021. 
+In Proceedings of The 42nd IEEE Symposium on Security and Privacy, May 2021. 
 
 ## 2020
-"Detecting and Understanding JavaScript Global Identifier Conflicts on the Web". [[PDF](https://zhangmx1997.github.io/papers/fse20_js_conflict.pdf)]<br>
+"Detecting and Understanding JavaScript Global Identifier Conflicts on the Web". [[PDF](https://zhangmx1997.github.io/papers/fse20_js_conflict.pdf)] [[Code](https://github.com/cuhk-seclab/JSObserver)]<br>
 <ins>Mingxue Zhang</ins>, Wei Meng.<br>
 In Proceedings of The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) (research track), November 2020. 
 
