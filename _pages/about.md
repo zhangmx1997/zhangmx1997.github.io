@@ -14,6 +14,10 @@ As a member of the [CUHK Computer Security Lab](https://seclab.cse.cuhk.edu.hk),
 Publications
 ======
 ## 2021
+"JSIsolate: Lightweight In-Browser JavaScript Isolation".<br>
+<ins>Mingxue Zhang</ins>, Wei Meng.<br>
+To appear in proceedings of The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) (research track), August 2021.
+
 "Revealer: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities". [[PDF](https://zhangmx1997.github.io/papers/sp21_revealer.pdf)] [[Code](https://github.com/cuhk-seclab/Revealer)]<br> 
 Yinxi Liu, <ins>Mingxue Zhang</ins>, Wei Meng.<br>
 In Proceedings of The 42nd IEEE Symposium on Security and Privacy, May 2021. 
