@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
 ## 2021
 - "JSIsolate: Lightweight In-Browser JavaScript Isolation". [[PDF](https://zhangmx1997.github.io/papers/fse21_jsisolate.pdf)] [[Code](https://github.com/cuhk-seclab/JSIsolate)]<br>
 <ins>Mingxue Zhang</ins>, Wei Meng.<br>
