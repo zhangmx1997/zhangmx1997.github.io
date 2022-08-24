@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingxue Zhang@CUHK"
+title                    : "Mingxue Zhang@ZJU"
 title_separator          : "-"
 name                     : &name "Mingxue Zhang"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "Ph.D. student at CUHK"
-  location         : "CUHK, <br> Shatin, New Territories, <br>Hong Kong, China"
+  bio              : "Assistant Professor at ZJU"
+  #location         : "CUHK, <br> Shatin, New Territories, <br>Hong Kong, China"
   employer         :
     #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
     #  googlescholar    : "http://yourfullgooglescholarurl.com"
