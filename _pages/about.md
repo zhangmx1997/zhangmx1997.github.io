@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at the Department of Computer Science and Engineering in the Chinese University of Hong Kong, supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei). Prior to CUHK, I received my B.Eng in Computer Science and Technology from Wuhan University in 2018.<br>
-As a member of the [CUHK Computer Security Lab](https://seclab.cse.cuhk.edu.hk), I work on web security and software security problems.<br>
+## About Me
+
+I am currently a tenure-track assistant professor at the [School of Cyber Science and Technology](https://icsr.zju.edu.cn) in [Zhejiang University](https://www.zju.edu.cn). My research interests include **web security** and **software security**. Recently, I have been focusing on investigating security threats on the web and other related applications.
+
+I received my Ph.D degree from the Chinese University of Hong Kong in 2022, where I was fortunate to be supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei). Prior to CUHK, I received my B.Eng in Computer Science and Technology from Wuhan University in 2018.
 
 ## News
-I will be joining the School of Cyber Science and Technology (网络空间安全学院) at Zhejiang University in 2022.
+
+- I am looking for **self-motivated** master students who share my research interests. You may find more information about our application and admission process [HERE](). If you are interested, feel free to contact me. 
+- I will be joining the School of Cyber Science and Technology (网络空间安全学院) at Zhejiang University in 2022.
 
 ## Services
 **Journal Reviewer**<br>
