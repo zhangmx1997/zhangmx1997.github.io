@@ -16,7 +16,7 @@ I received my Ph.D degree from the Chinese University of Hong Kong in 2022, wher
 
 ## News
 
-- I am looking for **self-motivated** master students who share my research interests. You may find more information about our application and admission process [HERE](). If you are interested, feel free to contact me. 
+- I am looking for **self-motivated** master students who share my research interests. You may find more information about our application and admission process [HERE](http://www.cs.zju.edu.cn/csen/2022/0817/c27006a2609353/page.htm). If you are interested, feel free to contact me. 
 - I will be joining the School of Cyber Science and Technology (网络空间安全学院) at Zhejiang University in 2022.
 
 ## Services
