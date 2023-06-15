@@ -24,8 +24,8 @@ I received my Ph.D degree from the Chinese University of Hong Kong in 2022, wher
 Empirical Software Engineering (2022)
 
 **Program Committee Member**<br>
-ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)
-ACM International Symposium on Software Testing and Analysis (ISSTA 2024)
+ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)<br>
+International Symposium on Software Testing and Analysis (ISSTA 2024)
 
 
 
