@@ -6,7 +6,7 @@ author_profile: true
 ---
 - "CSChecker: Revisiting GDPR and CCPA Compliance of Cookie  Banners on the Web".<br>
 <ins>Mingxue Zhang</ins>, Wei Meng, You Zhou, Kui Ren.<br>
-To appear in the 46th International Conference on Software Engineering (ICSE).
+To appear in Proceedings of 46th International Conference on Software Engineering (ICSE).
 
 - "JSIsolate: Lightweight In-Browser JavaScript Isolation". [[PDF](https://zhangmx1997.github.io/papers/fse21_jsisolate.pdf)] [[Code](https://github.com/cuhk-seclab/JSIsolate)]<br>
 <ins>Mingxue Zhang</ins>, Wei Meng.<br>
