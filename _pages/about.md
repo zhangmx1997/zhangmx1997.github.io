@@ -16,7 +16,7 @@ I received my Ph.D degree from the Chinese University of Hong Kong in 2022, wher
 
 ## Recruiment
 
-I am looking for **self-motivated** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [HERE](http://www.cs.zju.edu.cn/csen/2022/0817/c27006a2609353/page.htm). If you are interested, feel free to contact me. 
+I am looking for **self-motivated** and **emotionally mature** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [HERE](http://www.cs.zju.edu.cn/csen/2022/0817/c27006a2609353/page.htm). If you are interested, feel free to contact me. 
 
 ## News
 
