@@ -10,19 +10,21 @@ redirect_from:
 
 ## About Me
 
-I am currently a tenure-track assistant professor at the [School of Cyber Science and Technology](https://icsr.zju.edu.cn) in [Zhejiang University](https://www.zju.edu.cn). My research interests include **web security** and **software security**. Recently, I have been focusing on investigating security threats on the web and other related applications.
+I am currently a tenure-track assistant professor at the [School of Cyber Science and Technology](https://icsr.zju.edu.cn) in [Zhejiang University](https://www.zju.edu.cn). My research interests include **web security** and **software security**. Recently, I have been focusing on investigating security threats on the web and other related applications, e.g., mobile apps, hybrid desktop apps etc.
 
 I received my Ph.D degree from the Chinese University of Hong Kong in 2022, where I was fortunate to be supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei). Prior to CUHK, I received my B.Eng in Computer Science and Technology from Wuhan University in 2018.
 
 ## Recruiment
 
-I am looking for **self-motivated** and **emotionally mature** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [HERE](http://www.cs.zju.edu.cn/csen/2022/0817/c27006a2609353/page.htm). If you are interested, feel free to contact me. 
+I am looking for **self-motivated** and **emotionally mature** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [HERE](http://www.cs.zju.edu.cn/csen/2022/0817/c27006a2609353/page.htm).
+ 
+<ins>Please note that our group works on technically challenging problems. I would provide support and help whenever necessary. In the meanwhile, I expect the Ph.D. students to be smart, willing to learn, and dedicated to security research.</ins> If you are well prepared, feel free to contact me. 
 
 ## News
 
-- [2023.10] Our paper on GDPR and CCPA compliance analysis of websites has been accepted by ICSE'24. Congrats to You Zhou!
-- [2023.04] I am on the Program Committee of [ISSTA'24](https://2024.issta.org). 
-- [2022.06] I am on the Program Committee of ESEC/FSE'23.
+- <ins>[2023.10]</ins> Our paper on GDPR and CCPA compliance analysis of websites has been accepted by ICSE'24. Congrats to You Zhou!
+- <ins>[2023.04]</ins> I am on the Program Committee of [ISSTA'24](https://2024.issta.org). 
+- <ins>[2022.06]</ins> I am on the Program Committee of ESEC/FSE'23.
 
 ## Services
 
