@@ -22,7 +22,7 @@ In Proceedings of The 42nd IEEE Symposium on Security and Privacy, May 2021.
 <ins>Mingxue Zhang</ins>, Wei Meng.<br>
 In Proceedings of The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) (research track), November 2020. 
 
-- "MineThrottle: Defending against Wasm In-Browser Cryptojacking". [[PDF](https://zhangmx1997.github.io/papers/www20_minethrottle.pdf)] [[Code](https://github.com/cuhk-seclab/MineThrottle)]<br>
+- "MineThrottle: Defending against Wasm In-Browser Cryptojacking". [[PDF](https://zhangmx1997.github.io/papers/www20_minethrottle.pdf)]<br>
 Weikang Bian, Wei Meng, <ins>Mingxue Zhang</ins>.<br>
 In Proceedings of The Web Conference 2020 (WWW), April 2020. 
 
