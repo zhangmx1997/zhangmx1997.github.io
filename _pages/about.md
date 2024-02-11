@@ -27,17 +27,18 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 - <ins>[2023.11]</ins> Our team won the second prize in _vulnerability analysis_ track of DataCon 2023. Congrats!
 - <ins>[2023.10]</ins> Our paper on GDPR and CCPA compliance analysis of websites has been accepted by ICSE'24. Congrats to You Zhou!
 - <ins>[2023.04]</ins> I am on the Program Committee of [ISSTA'24](https://2024.issta.org). 
-- <ins>[2022.06]</ins> I am on the Program Committee of ESEC/FSE'23.
 
 ## <font color="#000066">Services</font>
 
 **Journal Reviewer**<br>
 - Empirical Software Engineering (2022)
+- IEEE/ACM Transactions on Networking (2024)
 
 **Program Committee Member**<br>
 - ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)<br>
 - International Symposium on Software Testing and Analysis (ISSTA 2024)<br>
-- IEEE/ACM International Conference on Software Engineering (ICSE 2025)
+- IEEE/ACM International Conference on Software Engineering (ICSE 2025)<br>
+- SecWeb Workshop 2024
 
 
 
