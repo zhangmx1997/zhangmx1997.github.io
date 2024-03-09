@@ -6,6 +6,10 @@ author_profile: true
 ---
 # <font color="#000066">Publications</font>
 
+- "Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis".<br>
+Penghui Li, Wei Meng, <ins>Mingxue Zhang</ins>, Chenlin Wang, Changhua Luo.<br>
+To appear in Proeedings of The 45th IEEE Symposium on Security and Privacy. 
+
 - "CSChecker: Revisiting GDPR and CCPA Compliance of Cookie  Banners on the Web".<br>
 <ins>Mingxue Zhang</ins>, Wei Meng, You Zhou, Kui Ren.<br>
 To appear in Proceedings of 46th International Conference on Software Engineering (ICSE).
