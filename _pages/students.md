@@ -8,7 +8,6 @@ author_profile: true
 
 ## Ph.D. students
 - Yan Gong (龚琰)
-- Xikang Chen (陈熙康)
 
 ## Master students
 - You Zhou (周游)
