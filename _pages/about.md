@@ -22,6 +22,7 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 
 ## <font color="#000066">News</font>
 
+- <ins>[2024.04]</ins> Our paper on optimization of web application fuzzing has been accepted by CCS'24. Congrats!'
 - <ins>[2024.03]</ins> Our paper on concolic execution of web applications has been accepted by IEEE S&P'24. Congrats!
 - <ins>[2023.11]</ins> I am on the Program Committee of [ICSE'25](https://conf.researchr.org/home/icse-2025).
 - <ins>[2023.11]</ins> Our team won the second prize in _vulnerability analysis_ track of DataCon 2023. Congrats!
@@ -39,7 +40,8 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 - IEEE/ACM International Conference on Software Engineering (ICSE 2025)<br>
 - SecWeb Workshop 2024
 
-
+**Teaching**<br>
+-
 
 
 

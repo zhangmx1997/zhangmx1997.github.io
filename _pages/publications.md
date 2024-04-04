@@ -6,6 +6,12 @@ author_profile: true
 ---
 # <font color="#000066">Publications</font>
 
+* denotes the Corresponding Author
+
+- "FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache".<br>
+Penghui Li, <ins>Mingxue Zhang*</ins>.<br>
+To appear in Proceedings of The 31th ACM Conference on Computer and Communications Security (CCS).
+
 - "Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis".<br>
 Penghui Li, Wei Meng, <ins>Mingxue Zhang</ins>, Chenlin Wang, Changhua Luo.<br>
 To appear in Proeedings of The 45th IEEE Symposium on Security and Privacy. 
