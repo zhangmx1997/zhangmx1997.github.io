@@ -41,7 +41,4 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 - SecWeb Workshop 2024
 
 **Teaching**<br>
--
-
-
-
+- Software Security, Spring 2024
