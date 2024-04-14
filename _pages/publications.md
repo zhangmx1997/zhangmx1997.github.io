@@ -6,7 +6,7 @@ author_profile: true
 ---
 # <font color="#000066">Publications</font>
 
-<font color="#000066"> \* denotes the Corresponding Author.</font>
+<font color="#000066"> * denotes the Corresponding Author.</font>
 
 - "FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache".<br>
 Penghui Li, <ins>Mingxue Zhang*</ins>.<br>
