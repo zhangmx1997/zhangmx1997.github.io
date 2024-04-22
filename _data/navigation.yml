@@ -17,8 +17,8 @@ main:
         
     #  - title: "Blog Posts"
     #    url: /year-archive/
-  - title: "Students"
-    url: /students/
+    # - title: "Students"
+    #    url: /students/
     
   - title: "CV"
     url: /cv/mingxue-resume.pdf

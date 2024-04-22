@@ -16,9 +16,9 @@ To appear in Proceedings of The 31st ACM Conference on Computer and Communicatio
 Penghui Li, Wei Meng, <ins>Mingxue Zhang</ins>, Chenlin Wang, Changhua Luo.<br>
 To appear in Proeedings of The 45th IEEE Symposium on Security and Privacy. 
 
-- "CSChecker: Revisiting GDPR and CCPA Compliance of Cookie  Banners on the Web".<br>
+- "CSChecker: Revisiting GDPR and CCPA Compliance of Cookie  Banners on the Web". [[PDF](https://zhangmx1997.github.io/papers/icse24_cschecker.pdf)] [[Code](https://doi.org/10.6084/m9.figshare.24943723)]<br>
 <ins>Mingxue Zhang</ins>, Wei Meng, You Zhou, Kui Ren.<br>
-To appear in Proceedings of 46th International Conference on Software Engineering (ICSE).
+In Proceedings of 46th International Conference on Software Engineering (ICSE) (research track), April 2024.
 
 - "JSIsolate: Lightweight In-Browser JavaScript Isolation". [[PDF](https://zhangmx1997.github.io/papers/fse21_jsisolate.pdf)] [[Code](https://github.com/cuhk-seclab/JSIsolate)]<br>
 <ins>Mingxue Zhang</ins>, Wei Meng.<br>
