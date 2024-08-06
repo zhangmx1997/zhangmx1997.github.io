@@ -4,9 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# <font color="#4974a5">Publications</font>
+# <font color="#5f6dc5">Publications</font>
 
-<font color="#4974a5"> * denotes the Corresponding Author.</font>
+<font color="#5f6dc5"> "*" Denotes the Corresponding Author.</font>
 
 - "FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache".<br>
 Penghui Li, <ins>Mingxue Zhang*</ins>.<br>

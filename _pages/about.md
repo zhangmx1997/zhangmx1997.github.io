@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# <font color="#4974a0">Mingxue ZHANG</font>
+# Mingxue ZHANG
 
 ## <font color="#4974a5">About Me</font>
 
@@ -22,11 +22,11 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 
 ## <font color="#4974a5">News</font>
 
+- <ins>[2024.08]</ins> Our paper on DNS tunnel detection has been accepted by TIFS'24. Congrats!
 - <ins>[2024.04]</ins> I am on the Program Committee of [NDSS'25](https://www.ndss-symposium.org/ndss2025/).
 - <ins>[2024.04]</ins> Our paper on cache-based optimization of web application fuzzing has been accepted by CCS'24. Congrats!
 - <ins>[2024.03]</ins> Our paper on concolic execution of web applications has been accepted by IEEE S&P'24. Congrats!
 - <ins>[2023.11]</ins> I am on the Program Committee of ICSE'25.
-- <ins>[2023.11]</ins> Our team won the second prize in _vulnerability analysis_ track of DataCon 2023. Congrats!
 
 ## <font color="#4974a5">Services</font>
 
