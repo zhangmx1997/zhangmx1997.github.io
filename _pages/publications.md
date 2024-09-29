@@ -20,7 +20,7 @@ To appear in IEEE Transactions on Information Forensics and Security (TIFS).
 Penghui Li, <ins>Mingxue Zhang*</ins>.<br>
 To appear in Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS).
 
-- "Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis".[[PDF](https://zhangmx1997.github.io/papers/sp24_symphp.pdf)] [[Code](https://github.com/secureweb/symphp)]<br>
+- "Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis". [[PDF](https://zhangmx1997.github.io/papers/sp24_symphp.pdf)] [[Code](https://github.com/secureweb/symphp)]<br>
 Penghui Li, Wei Meng, <ins>Mingxue Zhang</ins>, Chenlin Wang, Changhua Luo.<br>
 In Proeedings of The 45th IEEE Symposium on Security and Privacy. 
 
