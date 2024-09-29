@@ -8,6 +8,10 @@ author_profile: true
 
 <font color="#4974a5"> "*" Denotes the Corresponding Author.</font>
 
+- "Sensitive Behavioral Chain-focused Android Malware Detection Fused with AST Semantics".<br>
+Jiacheng Gong, Weina Niu, Song Li, <ins>Mingxue Zhang</ins>, Xiaosong Zhang.<br>
+To appear in IEEE Transactions on Information Forensics and Security (TIFS).
+
 - "GraphTunnel: Robust DNS Tunnel Detection Based on DNS Recursive Resolution Graph".<br>
 Guangyuan Gao, Weina Niu, Jiacheng Gong, Dujuan Gu, Song Li, <ins>Mingxue Zhang</ins>, Xiaosong Zhang.<br>
 To appear in IEEE Transactions on Information Forensics and Security (TIFS).
