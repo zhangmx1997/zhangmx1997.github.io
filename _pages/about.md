@@ -22,11 +22,11 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 
 ## <font color="#4974a5">News</font>
 
+- <ins>[2024.10]</ins> Our CCS'24 paper received the distinguished paper award!
 - <ins>[2024.09]</ins> Our paper on Android malware detection has been accepted by TIFS. Congrats!
 - <ins>[2024.08]</ins> Our paper on DNS tunnel detection has been accepted by TIFS. Congrats!
 - <ins>[2024.04]</ins> I am on the Program Committee of [NDSS'25](https://www.ndss-symposium.org/ndss2025/).
 - <ins>[2024.04]</ins> Our paper on cache-based optimization of web application fuzzing has been accepted by CCS'24. Congrats!
-- <ins>[2024.03]</ins> Our paper on concolic execution of web applications has been accepted by IEEE S&P'24. Congrats!
 
 ## <font color="#4974a5">Services</font>
 
@@ -36,8 +36,8 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 - Object-oriented Programming in C++, Fall 2024
 
 **Program Committee Member**<br>
-- IEEE/ACM International Conference on Software Engineering (ICSE 2025)<br>
 - The Network and Distributed System Security Symposium (NDSS 2025)<br>
+- IEEE/ACM International Conference on Software Engineering (ICSE 2025)<br>
 - International Symposium on Software Testing and Analysis (ISSTA 2024)<br>
 - SecWeb Workshop 2024
 - ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)<br>

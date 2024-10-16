@@ -6,7 +6,7 @@ author_profile: true
 ---
 # <font color="#4974a5">Publications</font>
 
-<font color="#4974a5"> "*" Denotes the Corresponding Author.</font>
+<font color="#4974a5"> "(*)" Denotes the Corresponding Author.</font>
 
 - "Sensitive Behavioral Chain-focused Android Malware Detection Fused with AST Semantics".<br>
 Jiacheng Gong, Weina Niu, Song Li, <ins>Mingxue Zhang</ins>, Xiaosong Zhang.<br>
@@ -16,9 +16,10 @@ To appear in IEEE Transactions on Information Forensics and Security (TIFS).
 Guangyuan Gao, Weina Niu, Jiacheng Gong, Dujuan Gu, Song Li, <ins>Mingxue Zhang</ins>, Xiaosong Zhang.<br>
 To appear in IEEE Transactions on Information Forensics and Security (TIFS).
 
-- "FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache".<br>
+- "FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache". [[PDF](https://zhangmx1997.github.io/papers/ccs24_fuzzcache.pdf)] [[Code](https://github.com/secureweb/fuzzcache)] <br>
 Penghui Li, <ins>Mingxue Zhang*</ins>.<br>
-To appear in Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS).
+In Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS).<br>
+<font color="#CC0000"> 🏆 Distinguished Paper Award </font>
 
 - "Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis". [[PDF](https://zhangmx1997.github.io/papers/sp24_symphp.pdf)] [[Code](https://github.com/secureweb/symphp)]<br>
 Penghui Li, Wei Meng, <ins>Mingxue Zhang</ins>, Chenlin Wang, Changhua Luo.<br>
