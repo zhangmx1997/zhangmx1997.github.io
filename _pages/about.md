@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Mingxue ZHANG
+# <font color="#4974a5">Mingxue ZHANG (张明雪)</font>
 
 ## <font color="#4974a5">About Me</font>
 
@@ -16,9 +16,11 @@ I received my Ph.D. degree from the Chinese University of Hong Kong in 2022, whe
 
 ## <font color="#4974a5">Recruiment</font>
 
-I am looking for **self-motivated** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [HERE](http://www.cs.zju.edu.cn/csen/2022/0817/c27006a2609353/page.htm).
- 
-<ins>Please note that our group works on technically challenging problems. I would provide support and help whenever necessary. In the meanwhile, I expect the students to have solid background in computer science, and be willing to learn.</ins> If you are well prepared, feel free to contact me via email. 
+I am looking for **self-motivated** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [here](https://mp.weixin.qq.com/s/iijmFFZaEUYQKaRiIMTrKw).  
+
+💡 Please note that our group works on technically challenging problems. I would provide support and help whenever necessary. In the meanwhile, I expect the students to have **solid background in computer science**, and be **willing to learn**. 
+
+💡 Also, we have several application cycles for both Ph.D. and master students, and we welcome undergraduate students who wish to publish at top-tier conferences to join us. However, we only have a few openings each year. Therefore, if you are interested and well prepared, please consider contacting me via emails **as early as possible**.
 
 ## <font color="#4974a5">News</font>
 
@@ -30,18 +32,18 @@ I am looking for **self-motivated** Ph.D. and master students who **have strong 
 
 ## <font color="#4974a5">Services</font>
 
-**Teaching**<br>
+**Teaching**
 - Software Security, Spring 2024
 - Introduction to Cyber Security, Spring 2024
 - Object-oriented Programming in C++, Fall 2024
 
-**Technical Program Committee**<br>
+**Technical Program Committee**
 - The Network and Distributed System Security Symposium (NDSS 2025)
 - IEEE/ACM International Conference on Software Engineering (ICSE 2025)
 - International Symposium on Software Testing and Analysis (ISSTA 2024)
 - SecWeb Workshop 2024
 - ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)
 
-**Journal Reviewer**<br>
+**Journal Reviewer**
 - Empirical Software Engineering 
 - IEEE/ACM Transactions on Networking 
