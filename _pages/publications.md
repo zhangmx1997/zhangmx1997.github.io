@@ -18,11 +18,11 @@ To appear in IEEE Transactions on Information Forensics and Security (TIFS).
 
 - **"FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache".** [[PDF](https://zhangmx1997.github.io/papers/ccs24_fuzzcache.pdf)] [[Code](https://github.com/secureweb/fuzzcache)] <br>
 Penghui Li, <ins>Mingxue Zhang*</ins>.<br>
-In Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS).<br>  🏆 <font color="#CC0000"> Distinguished Paper Award </font>
+In Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS), October 2024.<br>  🏆 <font color="#CC0000"> Distinguished Paper Award </font>
 
 - **"Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis".** [[PDF](https://zhangmx1997.github.io/papers/sp24_symphp.pdf)] [[Code](https://github.com/secureweb/symphp)]<br>
 Penghui Li, Wei Meng, <ins>Mingxue Zhang</ins>, Chenlin Wang, Changhua Luo.<br>
-In Proeedings of The 45th IEEE Symposium on Security and Privacy. 
+In Proceedings of The 45th IEEE Symposium on Security and Privacy, May 2024. 
 
 - **"CSChecker: Revisiting GDPR and CCPA Compliance of Cookie  Banners on the Web".** [[PDF](https://zhangmx1997.github.io/papers/icse24_cschecker.pdf)] [[Code](https://doi.org/10.6084/m9.figshare.24943723)]<br>
 <ins>Mingxue Zhang</ins>, Wei Meng, You Zhou, Kui Ren.<br>
