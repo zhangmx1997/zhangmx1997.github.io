@@ -16,11 +16,11 @@ I received my Ph.D. degree from the Chinese University of Hong Kong in 2022, whe
 
 ## <font color="#4974a5">Recruiment</font>
 
-I am looking for **self-motivated** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [here](https://mp.weixin.qq.com/s/iijmFFZaEUYQKaRiIMTrKw).  
+I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. and master students who **have strong programming skills**. You may find more information about our application and admission process [here](https://mp.weixin.qq.com/s/iijmFFZaEUYQKaRiIMTrKw).  
 
-💡 Please note that our group works on technically challenging problems. I would provide support and help whenever necessary. In the meanwhile, I expect the students to have **solid background in computer science**, and be **willing to learn**. 
+💡 Please note that our group works on technically challenging problems. I would provide support and help whenever necessary. In the meanwhile, I expect the students to have **solid background in computer science**, be **willing to learn**, and be **prepared to overcome challenges**. 
 
-💡 Also, we have several application cycles for both Ph.D. and master students, and we welcome undergraduate students who wish to publish at top-tier conferences to join us. However, we only have a few openings each year. Therefore, if you are interested and well prepared, please consider contacting me via emails **as early as possible**.
+💡 Also, we have several application cycles for both Ph.D. and master students, and we welcome undergraduate students who wish to publish at top-tier conferences to join us. However, we only have a few openings each year. Therefore, if you are interested, please contact me via emails **as early as possible**.
 
 ## <font color="#4974a5">News</font>
 
