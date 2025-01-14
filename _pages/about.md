@@ -48,4 +48,4 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 - IEEE Transactions on Computers (TC 2024)
 - IEEE Transactions on Intelligent Transportation Systems (TITS 2024)
 - IEEE/ACM Transactions on Networking (TON 2023)
-- Empirical Software Engineering (EMSE 2022)
+- Empirical Software Engineering (ESE 2022)
