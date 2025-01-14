@@ -37,7 +37,7 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 - Introduction to Cyber Security, Spring 2024
 - Object-oriented Programming in C++, Fall 2024
 
-**Technical Program Committee**
+**Conference Program Committee Member**
 - The Network and Distributed System Security Symposium (NDSS 2025)
 - IEEE/ACM International Conference on Software Engineering (ICSE 2025)
 - International Symposium on Software Testing and Analysis (ISSTA 2024)
@@ -45,5 +45,7 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 - ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)
 
 **Journal Reviewer**
-- Empirical Software Engineering 
-- IEEE/ACM Transactions on Networking 
+- IEEE Transactions on Computers (TC 2024)
+- IEEE Transactions on Intelligent Transportation Systems (TITS 2024)
+- IEEE/ACM Transactions on Networking (TON 2023)
+- Empirical Software Engineering (EMSE 2022)
