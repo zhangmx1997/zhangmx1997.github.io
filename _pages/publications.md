@@ -10,11 +10,11 @@ author_profile: true
 
 - **"Sensitive Behavioral Chain-focused Android Malware Detection Fused with AST Semantics".** [[PDF](https://zhangmx1997.github.io/papers/tifs24_android_malware.pdf)]<br>
 Jiacheng Gong, Weina Niu, Song Li, <ins>Mingxue Zhang</ins>, Xiaosong Zhang.<br>
-To appear in IEEE Transactions on Information Forensics and Security (TIFS).
+In IEEE Transactions on Information Forensics and Security (TIFS).
 
 - **"GraphTunnel: Robust DNS Tunnel Detection Based on DNS Recursive Resolution Graph".** [[PDF](https://zhangmx1997.github.io/papers/tifs24_dns_tunnel.pdf)]<br>
 Guangyuan Gao, Weina Niu, Jiacheng Gong, Dujuan Gu, Song Li, <ins>Mingxue Zhang</ins>, Xiaosong Zhang.<br>
-To appear in IEEE Transactions on Information Forensics and Security (TIFS).
+In IEEE Transactions on Information Forensics and Security (TIFS).
 
 - **"FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache".** [[PDF](https://zhangmx1997.github.io/papers/ccs24_fuzzcache.pdf)] [[Code](https://github.com/secureweb/fuzzcache)] <br>
 Penghui Li, <ins>Mingxue Zhang*</ins>.<br>
