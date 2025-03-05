@@ -45,6 +45,7 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 - ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)
 
 **Journal Reviewer**
+- IEEE Transactions on Dependable and Secure Computing (TDSC 2025)
 - IEEE Transactions on Computers (TC 2024)
 - IEEE Transactions on Intelligent Transportation Systems (TITS 2024)
 - IEEE/ACM Transactions on Networking (TON 2023)
