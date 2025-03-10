@@ -20,7 +20,7 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 
 💡 Please note that our group works on technically challenging problems. I would provide support and help whenever necessary. In the meanwhile, I expect the students to have **solid background in computer science**, be **willing to learn**, and be **prepared to overcome challenges**. 
 
-💡 Also, we have several application cycles for both Ph.D. and master students, and we welcome undergraduate students who wish to publish at top-tier conferences to join us. However, we only have a few openings each year. Therefore, if you are interested, please contact me via emails **as early as possible**.
+💡 Also, we have several application cycles for both Ph.D. and master students, and we welcome undergraduate students who wish to publish at top-tier conferences to join us. However, we only have a few openings each year. Therefore, if you are interested, please contact me via email **as early as possible**.
 
 ## <font color="#4974a5">News</font>
 
