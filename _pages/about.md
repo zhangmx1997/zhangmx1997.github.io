@@ -33,20 +33,20 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 ## <font color="#4974a5">Services</font>
 
 **Teaching**
-- Software Security, Spring 2024, 2025
-- Introduction to Cyber Security, Spring 2024, 2025
-- Object-oriented Programming in C++, Fall 2024
+- Software Security, _Spring 2024, 2025_
+- Introduction to Cyber Security, _Spring 2024, 2025_
+- Object-oriented Programming in C++, _Fall 2024_
 
 **Conference Program Committee Member**
-- The Network and Distributed System Security Symposium (NDSS 2025)
-- IEEE/ACM International Conference on Software Engineering (ICSE 2025)
-- International Symposium on Software Testing and Analysis (ISSTA 2024)
+- The Network and Distributed System Security Symposium (_NDSS 2025_)
+- IEEE/ACM International Conference on Software Engineering (_ICSE 2025_)
+- International Symposium on Software Testing and Analysis (_ISSTA 2024_)
 - SecWeb Workshop 2024
-- ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (ESEC/FSE 2023)
+- ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (_ESEC/FSE 2023_)
 
 **Journal Reviewer**
-- IEEE Transactions on Dependable and Secure Computing (TDSC 2025)
-- IEEE Transactions on Computers (TC 2024)
-- IEEE Transactions on Intelligent Transportation Systems (TITS 2024)
-- IEEE/ACM Transactions on Networking (TON 2023)
-- Empirical Software Engineering (ESE 2022)
+- IEEE Transactions on Dependable and Secure Computing (_TDSC 2025_)
+- IEEE Transactions on Computers (_TC 2024_)
+- IEEE Transactions on Intelligent Transportation Systems (_TITS 2024_)
+- IEEE/ACM Transactions on Networking (_TON 2023_)
+- Empirical Software Engineering (_ESE 2022_)
