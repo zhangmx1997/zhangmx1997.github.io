@@ -8,6 +8,10 @@ author_profile: true
 
 <font color="#4974a5"> "(*)" Denotes the Corresponding Author.</font>
 
+- **"PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation".**<br>
+Bo Pang, Yiheng Zhang, Mingzhe Gao, Junzhe Zhang, Ligeng Chen, <ins>Mingxue Zhang*</ins>, Gang Liang.<br>
+To appear in Proceedings of The 46th IEEE Symposium on Security and Privacy.
+
 - **"Sensitive Behavioral Chain-focused Android Malware Detection Fused with AST Semantics".**<br>
 Jiacheng Gong, Weina Niu, Song Li, <ins>Mingxue Zhang</ins>, Xiaosong Zhang.<br>
 To appear in IEEE Transactions on Information Forensics and Security (TIFS).
