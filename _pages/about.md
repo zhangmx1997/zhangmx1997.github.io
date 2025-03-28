@@ -10,7 +10,7 @@ redirect_from:
 
 ## <font color="#4974a5">About Me</font>
 
-I am currently a tenure-track research professor at the [School of Cyber Science and Technology](https://icsr.zju.edu.cn) in [Zhejiang University](https://www.zju.edu.cn). My research interests include **web security** and **software security**. Recently, I have been focusing on 1) investigating security threats on the web and other related applications, e.g., WebView-based mobile apps, and 2) AI-facilitated program analysis and its reliability.
+I am currently a tenure-track research professor at the [School of Cyber Science and Technology](https://icsr.zju.edu.cn) in [Zhejiang University](https://www.zju.edu.cn). My research interests include **web security** (e.g., program analysis for scripting languages, abnormal script detection, etc.) and **software security** (e.g., compliance analysis, vulnerability detection, etc.). 
 
 I received my Ph.D. degree from the Chinese University of Hong Kong in 2022, where I was fortunate to be supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei). Prior to CUHK, I received my B.Eng in Computer Science and Technology from Wuhan University (Hongyi Talent Class) in 2018.
 
@@ -34,7 +34,7 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 
 **Teaching**
 - Software Security, _Spring 2024, 2025_
-- Introduction to Cyber Security, _Spring 2024, 2025_
+- Introduction to Cyber Security (Part I. Network Security), _Spring 2024, 2025_
 - Object-oriented Programming in C++, _Fall 2024_
 
 **Conference Program Committee Member**
