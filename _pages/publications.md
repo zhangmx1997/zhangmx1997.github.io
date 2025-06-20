@@ -8,7 +8,7 @@ author_profile: true
 
 <font color="#4974a5"> "(*)" Denotes the Corresponding Author.</font>
 
-- **"Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly"** <br>
+- **"Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly".** <br>
 Changhua Luo, Jiayi Lin, <ins>Mingxue Zhang</ins>, Lanteng Lin, Penghui Li, Chenxiong Qian. <br>
 To appear in Proceedings of The 48th International Conference on Software Engineering (ICSE), April 2026. 
 
