@@ -24,11 +24,11 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 
 ## <font color="#4974a5">News</font>
 
+- <ins>[2025.06]</ins> Our paper on JavaScript engine fuzzing has been accepted by ICSE'26. Congrats!
 - <ins>[2025.03]</ins> Our paper on POI patch generation has been accepted by SP'25. Congrats!
 - <ins>[2024.10]</ins> Our CCS'24 paper received the Distinguished Paper Award!
 - <ins>[2024.09]</ins> Our paper on Android malware detection has been accepted by TIFS. Congrats!
 - <ins>[2024.08]</ins> Our paper on DNS tunnel detection has been accepted by TIFS. Congrats!
-- <ins>[2024.04]</ins> I am on the Program Committee of [NDSS'25](https://www.ndss-symposium.org/ndss2025/).
 
 ## <font color="#4974a5">Services</font>
 

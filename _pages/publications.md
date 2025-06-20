@@ -8,6 +8,10 @@ author_profile: true
 
 <font color="#4974a5"> "(*)" Denotes the Corresponding Author.</font>
 
+- **"Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly"** <br>
+Changhua Luo, Jiayi Lin, <ins>Mingxue Zhang</ins>, Lanteng Lin, Penghui Li, Chenxiong Qian. <br>
+To appear in Proceedings of The 48th International Conference on Software Engineering (ICSE), April 2026. 
+
 - **"PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation".** [[PDF](https://zhangmx1997.github.io/papers/sp25_pfortifier.pdf)] [[Code](https://github.com/HACHp1/PFortifier)] <br>
 Bo Pang, Yiheng Zhang, Mingzhe Gao, Junzhe Zhang, Ligeng Chen, <ins>Mingxue Zhang*</ins>, Gang Liang.<br>
 In Proceedings of The 46th IEEE Symposium on Security and Privacy, May 2025.
