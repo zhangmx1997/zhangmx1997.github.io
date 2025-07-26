@@ -12,6 +12,10 @@ author_profile: true
 Mingyang Li, Weina Niu, Jiacheng Gong, Song Li, <ins>Mingxue Zhang</ins>, Anran Hou, Tianqing He, Xiaosong Zhang.<br>
 In IEEE Transactions on Information Forensics and Security (TIFS).
 
+- **"Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly".** <br>
+Jiayi Lin, Changhua Luo, <ins>Mingxue Zhang</ins>, Lanteng Lin, Penghui Li, Chenxiong Qian. <br>
+To appear in Proceedings of The 48th International Conference on Software Engineering (ICSE), April 2026. 
+
 - **"PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation".** [[PDF](https://zhangmx1997.github.io/papers/sp25_pfortifier.pdf)] [[Code](https://github.com/HACHp1/PFortifier)] <br>
 Bo Pang, Yiheng Zhang, Mingzhe Gao, Junzhe Zhang, Ligeng Chen, <ins>Mingxue Zhang*</ins>, Gang Liang.<br>
 In Proceedings of The 46th IEEE Symposium on Security and Privacy, May 2025.
