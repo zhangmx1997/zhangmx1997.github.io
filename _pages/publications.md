@@ -8,7 +8,7 @@ author_profile: true
 
 <font color="#4974a5"> "(*)" Denotes the Corresponding Author.</font>
 
-- **"BPFDex: Enabling Robust Android Apps Unpacking via Android Kernel"."** [[PDF](https://zhangmx1997.github.io/papers/tifs25_BPFDex_apps_unpacking.pdf)] <br>
+- **"BPFDex: Enabling Robust Android Apps Unpacking via Android Kernel".** [[PDF](https://zhangmx1997.github.io/papers/tifs25_BPFDex_apps_unpacking.pdf)] <br>
 Mingyang Li, Weina Niu, Jiacheng Gong, Song Li, <ins>Mingxue Zhang</ins>, Anran Hou, Tianqing He, Xiaosong Zhang.<br>
 In IEEE Transactions on Information Forensics and Security (TIFS).
 
@@ -36,7 +36,7 @@ In Proceedings of The 31st ACM Conference on Computer and Communications Securit
 Penghui Li, Wei Meng, <ins>Mingxue Zhang</ins>, Chenlin Wang, Changhua Luo.<br>
 In Proceedings of The 45th IEEE Symposium on Security and Privacy, May 2024. 
 
-- **"CSChecker: Revisiting GDPR and CCPA Compliance of Cookie  Banners on the Web".** [[PDF](https://zhangmx1997.github.io/papers/icse24_cschecker.pdf)] [[Code](https://doi.org/10.6084/m9.figshare.24943723)]<br>
+- **"CSChecker: Revisiting GDPR and CCPA Compliance of Cookie  Banners on the Web".** [[PDF](https://zhangmx1997.github.io/papers/icse24_cschecker.pdf)] [[Code+Data](https://doi.org/10.6084/m9.figshare.24943723)]<br>
 <ins>Mingxue Zhang</ins>, Wei Meng, You Zhou, Kui Ren.<br>
 In Proceedings of 46th International Conference on Software Engineering (ICSE) (research track), April 2024.
 
