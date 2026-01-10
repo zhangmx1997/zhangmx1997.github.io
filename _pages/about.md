@@ -35,9 +35,10 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 **Teaching**
 - Software Security, _Spring 2024, 2025_
 - Introduction to Cyber Security (Part I. Network Security), _Spring 2024, 2025_
-- Object-oriented Programming in C++, _Fall 2024_
+- Object-oriented Programming in C++, _Fall 2024, 2025_
 
 **Conference Program Committee Member**
+- FUZZING Workshop 2026 (Co-located with NDSS'26)
 - The Network and Distributed System Security Symposium (_NDSS 2025_)
 - IEEE/ACM International Conference on Software Engineering (_ICSE 2025_)
 - International Symposium on Software Testing and Analysis (_ISSTA 2024_)
