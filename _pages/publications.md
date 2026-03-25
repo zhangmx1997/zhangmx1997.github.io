@@ -9,7 +9,7 @@ author_profile: true
 <font color="#4974a5"> "(*)" Denotes the Corresponding Author.</font>
 
 - **"Unveiling the Fragility of Binary Code Similarity Detection via Targeted Attacks with Model Explanations".** <br>
-Mingjie Chen, Tiancheng Zhu, <ins>Mingxue Zhang</ins>, Yiling He, Minghao Lin, Penghui Li, Kui Ren. <br>
+Mingjie Chen, Tiancheng Zhu, <ins>Mingxue Zhang</ins> ✉️, Yiling He, Minghao Lin, Penghui Li, Kui Ren. <br>
 To appear in Proceedings of The 34th ACM International Conference on the Foundations of Software Engineering (FSE), research track, July 2026.
 
 - **"BPFDex: Enabling Robust Android Apps Unpacking via Android Kernel".** [[PDF](https://zhangmx1997.github.io/papers/tifs25_BPFDex_apps_unpacking.pdf)] <br>
@@ -21,7 +21,7 @@ Jiayi Lin, Changhua Luo, <ins>Mingxue Zhang</ins>, Lanteng Lin, Penghui Li, Chen
 To appear in Proceedings of The 48th International Conference on Software Engineering (ICSE), April 2026. 
 
 - **"PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation".** [[PDF](https://zhangmx1997.github.io/papers/sp25_pfortifier.pdf)] [[Code](https://github.com/HACHp1/PFortifier)] <br>
-Bo Pang, Yiheng Zhang, Mingzhe Gao, Junzhe Zhang, Ligeng Chen, <ins>Mingxue Zhang*</ins>, Gang Liang.<br>
+Bo Pang, Yiheng Zhang, Mingzhe Gao, Junzhe Zhang, Ligeng Chen, <ins>Mingxue Zhang</ins> ✉️, Gang Liang.<br>
 In Proceedings of The 46th IEEE Symposium on Security and Privacy, May 2025.
 
 - **"Sensitive Behavioral Chain-focused Android Malware Detection Fused with AST Semantics".** [[PDF](https://zhangmx1997.github.io/papers/tifs24_android_malware.pdf)]<br>
@@ -33,7 +33,7 @@ Guangyuan Gao, Weina Niu, Jiacheng Gong, Dujuan Gu, Song Li, <ins>Mingxue Zhang<
 In IEEE Transactions on Information Forensics and Security (TIFS).
 
 - **"FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache".** [[PDF](https://zhangmx1997.github.io/papers/ccs24_fuzzcache.pdf)] [[Code](https://github.com/secureweb/fuzzcache)] <br>
-Penghui Li, <ins>Mingxue Zhang*</ins>.<br>
+Penghui Li, <ins>Mingxue Zhang</ins> ✉️.<br>
 In Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS), October 2024.<br>  🏆 <font color="#CC0000"> Distinguished Paper Award </font>
 
 - **"Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis".** [[PDF](https://zhangmx1997.github.io/papers/sp24_symphp.pdf)] [[Code](https://github.com/secureweb/symphp)]<br>
