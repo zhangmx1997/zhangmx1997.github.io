@@ -8,6 +8,10 @@ author_profile: true
 
 <font color="#4974a5"> "(*)" Denotes the Corresponding Author.</font>
 
+- **"Unveiling the Fragility of Binary Code Similarity Detection via Targeted Attacks with Model Explanations".** <br>
+Mingjie Chen, Tiancheng Zhu, <ins>Mingxue Zhang</ins>, Yiling He, Minghao Lin, Penghui Li, Kui Ren. <br>
+To appear in Proceedings of The 34th ACM International Conference on the Foundations of Software Engineering (FSE), research track, July 2026.
+
 - **"BPFDex: Enabling Robust Android Apps Unpacking via Android Kernel".** [[PDF](https://zhangmx1997.github.io/papers/tifs25_BPFDex_apps_unpacking.pdf)] <br>
 Mingyang Li, Weina Niu, Jiacheng Gong, Song Li, <ins>Mingxue Zhang</ins>, Anran Hou, Tianqing He, Xiaosong Zhang.<br>
 In IEEE Transactions on Information Forensics and Security (TIFS).

@@ -24,21 +24,21 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 
 ## <font color="#4974a5">News</font>
 
+- <ins>[2026.03]</ins> Our paper on explanation-guided adversarial attacks against BCSD models has been accepted by FSE'26!
 - <ins>[2025.07]</ins> Our paper on Android app unpacking has been accepted by TIFS!
 - <ins>[2025.06]</ins> Our paper on JavaScript engine fuzzing has been accepted by ICSE'26. Congrats!
 - <ins>[2025.03]</ins> Our paper on POI patch generation has been accepted by SP'25. Congrats!
 - <ins>[2024.10]</ins> Our CCS'24 paper received the Distinguished Paper Award!
-- <ins>[2024.09]</ins> Our paper on Android malware detection has been accepted by TIFS. Congrats!
 
 ## <font color="#4974a5">Services</font>
 
 **Teaching**
-- Software Security, _Spring 2024, 2025_
+- Software Security, _Spring 2024, 2025, 2026_
 - Introduction to Cyber Security (Part I. Network Security), _Spring 2024, 2025_
 - Object-oriented Programming in C++, _Fall 2024, 2025_
 
 **Conference Program Committee Member**
-- FUZZING Workshop 2026 (Co-located with NDSS'26)
+- FUZZING Workshop 2026 (Co-located with NDSS 2026)
 - The Network and Distributed System Security Symposium (_NDSS 2025_)
 - IEEE/ACM International Conference on Software Engineering (_ICSE 2025_)
 - International Symposium on Software Testing and Analysis (_ISSTA 2024_)
@@ -46,7 +46,8 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 - ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference (_ESEC/FSE 2023_)
 
 **Journal Reviewer**
-- IEEE Transactions on Dependable and Secure Computing (_TDSC 2025_)
+- ACM Transactions on Software Engineering and Methodology (_TOSEM 2026_)
+- IEEE Transactions on Dependable and Secure Computing (_TDSC 2025, 2026_)
 - IEEE Transactions on Computers (_TC 2024_)
 - IEEE Transactions on Intelligent Transportation Systems (_TITS 2024_)
 - IEEE/ACM Transactions on Networking (_TON 2023_)
