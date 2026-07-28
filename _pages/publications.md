@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 # <font color="#4974a5">Publications</font>
+- **"When Extensions Lie: Large-scale Study of Privacy Policy  Compliance in Browser Extensions".** <br>
+Zilun Wang, Zeyang Zhuang, Mingxue Zhang, Wei Meng, Michael R. Lyu. <br>
+To appear in Proceedings of The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), October 2026. 
 
 - **"Unveiling the Fragility of Binary Code Similarity Detection via Targeted Attacks with Model Explanations".** [[PDF](https://zhangmx1997.github.io/papers/fse26_bcsd_attack.pdf)] [[Code]()] <br>
 Mingjie Chen, Tiancheng Zhu, <ins>Mingxue Zhang</ins> ✉️, Yiling He, Minghao Lin, Penghui Li, Kui Ren. <br>
@@ -16,7 +19,7 @@ In IEEE Transactions on Information Forensics and Security (TIFS).
 
 - **"Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly".** [[PDF](https://zhangmx1997.github.io/papers/icse26_mad_eye.pdf)] <br>
 Jiayi Lin, Changhua Luo, <ins>Mingxue Zhang</ins>, Lanteng Lin, Penghui Li, Chenxiong Qian. <br>
-To appear in Proceedings of The 48th International Conference on Software Engineering (ICSE), April 2026. 
+In Proceedings of The 48th International Conference on Software Engineering (ICSE), April 2026. 
 
 - **"PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation".** [[PDF](https://zhangmx1997.github.io/papers/sp25_pfortifier.pdf)] [[Code](https://github.com/HACHp1/PFortifier)] <br>
 Bo Pang, Yiheng Zhang, Mingzhe Gao, Junzhe Zhang, Ligeng Chen, <ins>Mingxue Zhang</ins> ✉️, Gang Liang.<br>

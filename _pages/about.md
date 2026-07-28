@@ -24,11 +24,11 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 
 ## <font color="#4974a5">News</font>
 
+- <ins>[2026.07]</ins> Our paper on LLM-assisted compliance analysis of browser extensions is accepted by ASE'26!
 - <ins>[2026.03]</ins> Our paper on explanation-guided adversarial attacks against BCSD models has been accepted by FSE'26!
 - <ins>[2025.07]</ins> Our paper on Android app unpacking has been accepted by TIFS!
 - <ins>[2025.06]</ins> Our paper on JavaScript engine fuzzing has been accepted by ICSE'26. Congrats!
 - <ins>[2025.03]</ins> Our paper on POI patch generation has been accepted by SP'25. Congrats!
-- <ins>[2024.10]</ins> Our CCS'24 paper received the Distinguished Paper Award!
 
 ## <font color="#4974a5">Services</font>
 
