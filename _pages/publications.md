@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # <font color="#4974a5">Publications</font>
-- **"When Extensions Lie: Large-scale Study of Privacy Policy  Compliance in Browser Extensions".** <br>
+- ![CCF-A](images/ccf-a.png) **"When Extensions Lie: Large-scale Study of Privacy Policy  Compliance in Browser Extensions".** <br>
 Zilun Wang, Zeyang Zhuang, <ins>Mingxue Zhang</ins>, Wei Meng, Michael R. Lyu. <br>
 To appear in Proceedings of The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), October 2026. 
 
