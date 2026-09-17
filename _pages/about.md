@@ -24,6 +24,7 @@ I am looking for **mentally healthy**, **self-motivated**, and **smart** Ph.D. a
 
 ## <font color="#4974a5">News</font>
 
+- <ins>[2026.09]</ins> Our paper on lightweight automatic triage of cookie compliance issues is accepted by NDSS'27!
 - <ins>[2026.07]</ins> Our paper on LLM-assisted compliance analysis of browser extensions is accepted by ASE'26!
 - <ins>[2026.03]</ins> Our paper on explanation-guided adversarial attacks against BCSD models has been accepted by FSE'26!
 - <ins>[2025.07]</ins> Our paper on Android app unpacking has been accepted by TIFS!
