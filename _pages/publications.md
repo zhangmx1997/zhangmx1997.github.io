@@ -9,7 +9,7 @@ author_profile: true
 Yi Yang, <ins>Mingxue Zhang</ins>✉️, Yuxiang Ma, Cong Zhang, Penghui Li, Changhua Luo, Weina Niu, Kui Ren. <br>
 To appear in Proceedings of the 2027 Network and Distributed System Security Symposium (NDSS), March 2027.
 
-- **"When Extensions Lie: Large-scale Study of Privacy Policy  Compliance in Browser Extensions".** <br>
+- **"When Extensions Lie: Large-scale Study of Privacy Policy  Compliance in Browser Extensions".**  [[PDF](https://zhangmx1997.github.io/papers/ase26_extension_compliance.pdf)] <br>
 Zilun Wang, Zeyang Zhuang, <ins>Mingxue Zhang</ins>, Wei Meng, Michael R. Lyu. <br>
 To appear in Proceedings of The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), October 2026. 
 
